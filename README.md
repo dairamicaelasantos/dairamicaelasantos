@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Daira Santos 👋
 
-<!--
-**dairamicaelasantos/dairamicaelasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Bilingual Research & & Healthcare Data Analyst | Industrial Operations & Data Specialist
+Bridging a strong academic background in behavioral & chemical sciences (B.S. Psychology, Chemistry Associate's) with technical data analytics (SQL, Tableau, Excel). Experienced in clinical research, meticulous data organization, and workflow automation. Based remotely in **Neuquén, Argentina**, targeting global remote roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills & Toolkit
+* **Data Management & Research Operations:** Data Collection, Validation & Auditing, Information Tracking, Database Management (REDCap, SPSS).
+* **Technical Analytics:** SQL, Microsoft Excel, Tableau, Data Cleaning & Pipeline Organization.
+* **Administrative & Executive Support:** Complex Task Prioritization, Confidential Data & Privacy Management, Asynchronous Workflows.
+* **Languages:** English (Bilingual / Native), Spanish (Native).
+
+---
+
+### 🚀 Featured Portfolio Projects
+* **Clinical Research Data Pipeline:** Automated cleaning and tracking dashboard for multi-site health research.
+* **Energy Operations Efficiency Tracker:** Industrial log analysis and KPI monitoring dashboard.
+
+📫 **How to reach me:** [dairamicaelasantos@gmail.com](mailto:dairamicaelasantos@gmail.com) | [Connect on LinkedIn](www.linkedin.com/in/daira-santos-93a26b2a8)
