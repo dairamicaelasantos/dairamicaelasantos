@@ -1,4 +1,5 @@
-# Hi there, I'm Daira Santos 👋
+# Daira Santos | Data & Research Operations
+Transforming complex healthcare and industrial data into clear, actionable operational insights.
 
 ### 💼 Bilingual Research & & Healthcare Data Analyst | Industrial Operations & Data Specialist
 Bridging a strong academic background in behavioral & chemical sciences (B.S. Psychology, Chemistry Associate's) with technical data analytics (SQL, Tableau, Excel). Experienced in clinical research, meticulous data organization, and workflow automation. Based remotely in **Neuquén, Argentina**, targeting global remote roles.
