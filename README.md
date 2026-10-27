@@ -17,4 +17,4 @@ Bridging a strong academic background in behavioral & chemical sciences (B.S. Ps
 * **Clinical Research Data Pipeline:** Automated cleaning and tracking dashboard for multi-site health research.
 * **Energy Operations Efficiency Tracker:** Industrial log analysis and KPI monitoring dashboard.
 
-📫 **How to reach me:** [dairamicaelasantos@gmail.com](mailto:dairamicaelasantos@gmail.com) | (www.linkedin.com/in/daira-santos-93a26b2a8)
+📫 **How to reach me:** [dairamicaelasantos@gmail.com](mailto:dairamicaelasantos@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daira-santos-93a26b2a8)
